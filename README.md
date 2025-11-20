@@ -179,13 +179,7 @@ me.say_hi()
 
 <br/>
 
-## 🏆 GitHub Achievements & Trophies
 
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=rohanajithshankarp&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
-
-</div>
 
 <br/>
 
