@@ -7,19 +7,19 @@
 
 ## 🧑‍💻 **About Me**
 I'm **Rohan Ajith Shankar P**, an **AI & Systems Engineer** passionate about  
-building **end-to-end machine learning systems**, **distributed architectures**, and  
-**production-grade MLOps pipelines** across cloud environments.
+building **scalable machine learning pipelines**, **distributed architectures**, and  
+**production-ready MLOps systems** across Azure and Databricks.
 
-- 🔭 Currently mastering **Azure + Databricks MLOps**
-- ⚙️ Designing **scalable ML pipelines** & **real-time systems**
-- 🔍 Exploring **AI agents, automation & LLM systems**
-- ⚡ Passionate about **systems thinking, efficiency & engineering discipline**
+- 🔭 Currently mastering **Azure × Databricks MLOps**
+- ⚙️ Building **high-performance systems & automation**
+- 🧠 Working on **LLM-based agents & real-time ML**
+- 🚀 Focused on **engineering discipline + simplicity**
 
 ---
 
 ## 🚀 **Tech Stack & Skills**
 
-### **AI / ML**
+### **AI / Machine Learning**
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -29,7 +29,7 @@ building **end-to-end machine learning systems**, **distributed architectures**,
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-### **Cloud & MLOps**
+### **Cloud, DevOps & MLOps**
 <p>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -40,7 +40,7 @@ building **end-to-end machine learning systems**, **distributed architectures**,
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 </p>
 
-### **Systems & Backend**
+### **Backend, Systems & Databases**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -64,13 +64,6 @@ building **end-to-end machine learning systems**, **distributed architectures**,
 
 ---
 
-## 🐍 **Contribution Snake Animation**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohanajithshankarp/rohanajithshankarp/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🌐 **Connect With Me**
 <p align="left">
   <a href="https://www.linkedin.com/in/" target="_blank">
@@ -89,8 +82,8 @@ building **end-to-end machine learning systems**, **distributed architectures**,
 
 ---
 
-## 🖤 **Thanks for Visiting!**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohanajithshankarp&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
 </p>
+
 
